@@ -29,7 +29,7 @@ Download: [NIH Malaria Dataset](https://lhncbc.nlm.nih.gov/publication/pub9932)
 ## ⚙️ Setup & Installation
 
 ```bash
-git clone https://github.com/your-username/malaria-classification.git
+git clone https://github.com/akhilr13/malaria-classification.git
 cd malaria-classification
 
 # (Optional) Create virtual environment
