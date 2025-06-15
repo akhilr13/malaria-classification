@@ -52,7 +52,7 @@ Utilizes VGG19 as a feature extractor with a custom classification head:
 
 ## 🚀 How to Run
 
-> 📝 **Note**: Dataset not included due to size. You can download it from the [official NIH source](https://lhncbc.nlm.nih.gov/publication/pub9932).
+> 📝 **Note**: Only a small sample (~1000 images) from the dataset is included in this repository for demonstration. To train on the full dataset, download it from the [official NIH source](https://lhncbc.nlm.nih.gov/publication/pub9932).
 
 ### 1. Clone the Repository
 ```bash
