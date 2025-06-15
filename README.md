@@ -54,7 +54,7 @@ Utilizes VGG19 as a feature extractor with a custom classification head:
 
 > 📝 **Note**: Only a small sample (~1000 images) from the dataset is included in this repository for demonstration. To train on the full dataset, download it from the [official NIH source](https://lhncbc.nlm.nih.gov/publication/pub9932).
 
-### 1. Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/akhilr13/malaria-classification.git
 cd malaria-classification
